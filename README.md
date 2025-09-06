@@ -1,16 +1,16 @@
-👋 Hi, I'm Sanjay Chettri
+👋 Hi, I'm Somanagouda Biradr
 
-🚀 DevOps & Cloud Engineer | AWS | Azure | Terraform | Docker | Kubernetes | CI/CD
+🚀 DevOps & Cloud Engineer | AWS | Terraform | Docker | CI/CD
 
 I’m passionate about building scalable, secure, and automated infrastructure. Currently working as an Lead Software Engineer at Persistent Systems. I specialize in cloud automation, CI/CD pipelines, container orchestration, and infrastructure as code.
 
 🔧 Skills & Tools
 Cloud: AWS, Azure
 CI/CD: Jenkins, GitHub Actions, GitLab CI/CD
-Containers & Orchestration: Docker, Kubernetes, AWS EKS, AKS
+Containers & Orchestration: Docker, Kubernetes, AWS EKS
 IaC & Automation: Terraform, Ansible
-Scripting: Python, Bash, Boto3
-Monitoring: Prometheus, Grafana, Datadog
+Scripting: Python, Bash
+Monitoring: Prometheus, Grafana
 Version Control: Git, GitHub, GitLab
 💼 Experience
 Persistent Systems(Lead software Engineer) | *Aug 2025 - Present
@@ -27,14 +27,11 @@ Hands-on with Docker, Kubernetes, Terraform, Prometheus, Azure Pipelines.
 🚀 DevSecOps for MERN – AWS EKS, Jenkins, ArgoCD, Terraform
 💰 AWS Cost Optimizer – Lambda (Python + Boto3) to clean stale EBS
 🐳 Java CI/CD – Jenkins + Kubernetes + Helm + SonarQube
-🏗 Azure AKS Migration – Voting app using Azure DevOps pipelines
 📦 Strapi on AWS – Deployed CMS with Route 53 & ALB
 📜 Education
-🎓 B.E. in Electronics & Communications
-📑 IIT Madras – Advanced Cloud Computing & DevOps
-🎯 Microsoft Azure Fundamentals Certified
+🎓 B.E. in Civil Engineering
 📫 Let's Connect
-Email: sanjaychettri54@gmail.com
+Email: somanagoudasb1234@gmail.com
 GitHub: SanjayGit2023
-LinkedIn: linkedin.com/in/sanjay-chettri-a9b225120
+LinkedIn: linkedin.com/in/sanjay-chettri-a9b22512
 “Committed to continuous learning and solving real-world problems using modern DevOps practices.”
