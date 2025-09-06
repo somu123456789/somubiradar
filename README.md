@@ -1,4 +1,4 @@
-👋 Hi, I'm Somanagouda Biradr
+👋 Hi, I'm Somanagouda Biradar
 
 🚀 DevOps & Cloud Engineer | AWS | Terraform | Docker | CI/CD
 
